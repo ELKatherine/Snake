@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdRspV5uyD7cIo0ZnFXQCTgt27fxBLw1zUvSbomc+IislO5MuJ7qniSa3TAO2yN/YoVBTR9XWOh+1y/YC9BaDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lipch\\source\\repos\\Snake2.0\\Snake2.0\\Snake2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lipch\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
